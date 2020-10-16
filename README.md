@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="lucas matos github stats" />
+  <img align="center" width="100%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="lucas matos github stats" />
 </p>
 
 <h1 align="center">
