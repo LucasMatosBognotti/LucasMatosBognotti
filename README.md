@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" width="100%" src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="lucas matos github stats" />
-</p>
-
 <h1 align="center">
   Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas</h2>
 </h1>
