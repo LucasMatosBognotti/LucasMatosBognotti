@@ -23,13 +23,13 @@
  <p align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
       width="40"
       height="40"
     />
   </a>
-   <a href="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" target="_blank">
+   <a href="https://css-tricks.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -39,7 +39,7 @@
   </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -47,7 +47,7 @@
   </a>
    <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
@@ -55,7 +55,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -63,7 +63,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -71,7 +71,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
@@ -87,7 +87,7 @@
   </a>
    <a href="hhttps://www.mysql.com/" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
       width="40"
       height="40"
@@ -95,7 +95,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -103,7 +103,7 @@
   </a>
    <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
