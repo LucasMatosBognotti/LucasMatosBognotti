@@ -31,7 +31,7 @@
   </a>
    <a href="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" target="_blank">
     <img
-      src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
       height="40"
